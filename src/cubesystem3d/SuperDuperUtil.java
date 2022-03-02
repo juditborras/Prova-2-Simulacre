@@ -13,6 +13,7 @@ public class SuperDuperUtil {
     
     public SuperDuperUtil() {
         
+        System.out.println("Salutacions");
     }
     
 }
