@@ -241,6 +241,8 @@ public class CubeSystem3D extends Application {
 
     @Override public void stop() {
         animation.pause();
+        
+        // JUDIT BORRÀS
     }
 
     class Xform extends Group {
